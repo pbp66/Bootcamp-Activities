@@ -1,1 +1,1 @@
-# Bootcamp-Activities
+# Bootcamp Class Activities
